@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="9.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="image.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Update="DatabaseSetupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DatabaseSetupForm.Designer.cs">
+      <DependentUpon>DatabaseSetupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="DataAdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdersForm.Designer.cs">
+      <DependentUpon>OrdersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="MaterialReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaterialReportForm.Designer.cs">
+      <DependentUpon>MaterialReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Update="RatioReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RatioReportForm.Designer.cs">
+      <DependentUpon>RatioReportForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>
