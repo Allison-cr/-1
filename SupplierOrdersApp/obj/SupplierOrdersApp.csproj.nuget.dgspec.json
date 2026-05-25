@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79184\\Documents\\New project\\SupplierOrdersApp\\SupplierOrdersApp.csproj": {}
+    "C:\\Users\\79184\\Documents\\New project\\Новая папка\\SupplierOrdersApp\\SupplierOrdersApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79184\\Documents\\New project\\SupplierOrdersApp\\SupplierOrdersApp.csproj": {
+    "C:\\Users\\79184\\Documents\\New project\\Новая папка\\SupplierOrdersApp\\SupplierOrdersApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79184\\Documents\\New project\\SupplierOrdersApp\\SupplierOrdersApp.csproj",
+        "projectUniqueName": "C:\\Users\\79184\\Documents\\New project\\Новая папка\\SupplierOrdersApp\\SupplierOrdersApp.csproj",
         "projectName": "SupplierOrdersApp",
-        "projectPath": "C:\\Users\\79184\\Documents\\New project\\SupplierOrdersApp\\SupplierOrdersApp.csproj",
+        "projectPath": "C:\\Users\\79184\\Documents\\New project\\Новая папка\\SupplierOrdersApp\\SupplierOrdersApp.csproj",
         "packagesPath": "C:\\Users\\79184\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79184\\Documents\\New project\\SupplierOrdersApp\\obj\\",
+        "outputPath": "C:\\Users\\79184\\Documents\\New project\\Новая папка\\SupplierOrdersApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

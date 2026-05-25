@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79184\\Documents\\New project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99512E-61F0-4B27-92A1-1DCC0EE91B1B}|GoodsReceiptsApp\\GoodsReceiptsApp.csproj|c:\\users\\79184\\documents\\new project\\goodsreceiptsapp\\goodsreceiptsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA99512E-61F0-4B27-92A1-1DCC0EE91B1B}|GoodsReceiptsApp\\GoodsReceiptsApp.csproj|solutionrelative:goodsreceiptsapp\\goodsreceiptsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99512E-61F0-4B27-92A1-1DCC0EE91B1B}|GoodsReceiptsApp\\GoodsReceiptsApp.csproj|C:\\Users\\79184\\Documents\\New project\\goodsreceiptsapp\\dailychartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA99512E-61F0-4B27-92A1-1DCC0EE91B1B}|GoodsReceiptsApp\\GoodsReceiptsApp.csproj|solutionrelative:goodsreceiptsapp\\dailychartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoodsReceiptsApp.csproj",
+              "DocumentMoniker": "C:\\Users\\79184\\Documents\\New project\\GoodsReceiptsApp\\GoodsReceiptsApp.csproj",
+              "RelativeDocumentMoniker": "GoodsReceiptsApp\\GoodsReceiptsApp.csproj",
+              "ToolTip": "C:\\Users\\79184\\Documents\\New project\\GoodsReceiptsApp\\GoodsReceiptsApp.csproj",
+              "RelativeToolTip": "GoodsReceiptsApp\\GoodsReceiptsApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-24T18:14:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\79184\\Documents\\New project\\GoodsReceiptsApp\\DailyChartForm.cs",
+              "RelativeDocumentMoniker": "GoodsReceiptsApp\\DailyChartForm.cs",
+              "ToolTip": "C:\\Users\\79184\\Documents\\New project\\GoodsReceiptsApp\\DailyChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GoodsReceiptsApp\\DailyChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:14:04.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

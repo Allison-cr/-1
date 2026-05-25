@@ -41,3 +41,28 @@ C:\Users\79184\Documents\New project\SupplierOrdersApp\bin\CheckCrud\Microsoft.E
 C:\Users\79184\Documents\New project\SupplierOrdersApp\bin\CheckCrud\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\79184\Documents\New project\SupplierOrdersApp\bin\CheckCrud\Npgsql.dll
 C:\Users\79184\Documents\New project\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.sourcelink.json
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\image.jpg
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\SupplierOrdersApp.exe
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\SupplierOrdersApp.deps.json
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\SupplierOrdersApp.runtimeconfig.json
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\SupplierOrdersApp.dll
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\SupplierOrdersApp.pdb
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\bin\Debug\net9.0-windows\Npgsql.dll
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.csproj.AssemblyReference.cache
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.Form1.resources
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.OrdersForm.resources
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.RatioReportForm.resources
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.csproj.GenerateResource.cache
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.AssemblyInfoInputs.cache
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.AssemblyInfo.cs
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.csproj.CoreCompileInputs.cache
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.sourcelink.json
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\Supplier.74773339.Up2Date
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.dll
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\refint\SupplierOrdersApp.dll
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.pdb
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\SupplierOrdersApp.genruntimeconfig.cache
+C:\Users\79184\Documents\New project\Новая папка\SupplierOrdersApp\obj\Debug\net9.0-windows\ref\SupplierOrdersApp.dll
